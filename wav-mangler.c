@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#include "prog10.h"
+#include "wav-mangler.h"
   
 #define PI (3.141592653589793)
 
